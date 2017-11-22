@@ -1,6 +1,5 @@
 '''
 Author : Shivnikar Sudeep 
-Admission No. : 15JE001152
 Date : October 30 , 2017 
 Problem : Predicting whether a student will pass or fail depending on his/her habits & previous record
 Dataset Credits : https://archive.ics.uci.edu/ml/datasets/Student+Performance
